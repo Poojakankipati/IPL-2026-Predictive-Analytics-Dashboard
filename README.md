@@ -1,7 +1,6 @@
 # IPL-2026-Predictive-Analytics-Dashboard
 AI &amp; Machine Learning Driven IPL 2026 Predictive Analytics Dashboard built using Power BI and XGBoost.
 
-# IPL 2026 Predictive Analytics Dashboard
 
 ## Overview
 This project is an AI & Machine Learning powered IPL analytics dashboard built using Power BI and predictive modeling techniques.
